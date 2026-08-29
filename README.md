@@ -11,6 +11,6 @@
 - Lovable.dev / Bolt.new वर हा Folder Upload केल्यास Auto Deploy होईल
 - Hostinger Horizons वर Zip Upload करा
 
-Login:
-Super Admin: superadmin@mkenterprises.com / MK@2026
-Admin: admin@mkenterprises.com / Admin@2026
+## Default Credentials
+- **Super Admin:** superadmin@mkenterprises.com / MK@2026
+- **Admin:** admin@mkenterprises.com / Admin@2026
